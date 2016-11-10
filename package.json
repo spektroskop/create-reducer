@@ -1,6 +1,6 @@
 {
   "name": "create-reducer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "author": "Alexander Stensrud <alex@stensrud.nu>",
   "license": "MIT",
